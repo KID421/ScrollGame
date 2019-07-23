@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: "\u7B49\u5F85"
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: "\u9AA8\u982D - \u6839"
+    localPosition: {x: 0.06903173, y: -0.3947265, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.7129377, w: -0.7012274}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8\u982D - \u6839/\u9AA8\u982D - \u982D"
+    localPosition: {x: 0.82666564, y: 0.000000059604645, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.030715663, w: 0.9995282}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8\u982D - \u6839/\u9AA8\u982D - \u5DE6\u624B 1"
+    localPosition: {x: 0.7303484, y: -0.1370576, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.9592817, w: 0.28245136}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8\u982D - \u6839/\u9AA8\u982D - \u5DE6\u624B 1/\u9AA8\u982D - \u5DE6\u624B
+      2"
+    localPosition: {x: 0.20893021, y: -0.000000059604645, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.18529847, w: 0.9826823}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8\u982D - \u6839/\u9AA8\u982D - \u5DE6\u8173 1"
+    localPosition: {x: -0.11258338, y: -0.22027385, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.9927738, w: 0.12000131}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8\u982D - \u6839/\u9AA8\u982D - \u5DE6\u8173 1/\u9AA8\u982D - \u5DE6\u8173
+      2"
+    localPosition: {x: 0.09686868, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.124823436, w: 0.992179}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8\u982D - \u6839/\u9AA8\u982D - \u53F3\u624B 1"
+    localPosition: {x: 0.740232, y: 0.13517731, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.9683994, w: 0.24940449}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8\u982D - \u6839/\u9AA8\u982D - \u53F3\u624B 1/\u9AA8\u982D - \u53F3\u624B
+      2"
+    localPosition: {x: 0.23711127, y: -0.00000008940697, z: 0}
+    localRotation: {x: 0, y: 0, z: 0, w: 1}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8\u982D - \u6839/\u9AA8\u982D - \u53F3\u8173 1"
+    localPosition: {x: -0.08576994, y: 0.15923283, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.97880936, w: 0.20477359}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: "\u9AA8\u982D - \u6839/\u9AA8\u982D - \u53F3\u8173 1/\u9AA8\u982D - \u53F3\u8173
+      2"
+    localPosition: {x: 0.119999975, y: -0.000000044703484, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.0013593177, w: 0.9999991}
+    localScale: {x: 1, y: 1, z: 1}
