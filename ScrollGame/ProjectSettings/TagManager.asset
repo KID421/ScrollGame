@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - "\u5730\u677F"
+  - "\u7B2C\u4E00\u500B\u756B\u9762"
+  - "\u7B2C\u4E8C\u500B\u756B\u9762"
+  - "\u7B2C\u4E09\u500B\u756B\u9762"
   layers:
   - Default
   - TransparentFX
