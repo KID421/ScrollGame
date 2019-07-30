@@ -8,6 +8,8 @@ TagManager:
   - "\u7B2C\u4E00\u500B\u756B\u9762"
   - "\u7B2C\u4E8C\u500B\u756B\u9762"
   - "\u7B2C\u4E09\u500B\u756B\u9762"
+  - "\u602A\u7269"
+  - "\u653B\u64CA\u89F8\u767C\u5340\u57DF"
   layers:
   - Default
   - TransparentFX
